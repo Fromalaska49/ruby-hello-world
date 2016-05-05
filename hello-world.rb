@@ -11,6 +11,8 @@ integer = 2147000000
 		</title>
 		<link src="css.css" rel="stylesheet" type="text/css" />
 		<link src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" type="tex/css" />
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" type="text/javascript">
+		</script>
 	</head>
 	<body>
 		<div>
