@@ -26,6 +26,12 @@ integer = 2147000000
 		<div>
 			Here is an int: <%= integer %>
 		</div>
+		<div>
+			<% x = 99 %>
+			<% (1..x).each do |i| %>
+				<%= i %> bottles of beer on the wall, <%= i %> bottles of beer, take one down, pass it around, <%= (i - 1) %> bottles of beer on the wall<br />
+			<% end %> 
+		</div>
 	</body>
 </html>
 
