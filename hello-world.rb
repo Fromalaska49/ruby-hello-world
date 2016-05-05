@@ -10,6 +10,7 @@ integer = 2147000000
 			<%= page_title %>
 		</title>
 		<link src="css.css" rel="stylesheet" type="text/css" />
+		<link src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" type="tex/css" />
 	</head>
 	<body>
 		<div>
