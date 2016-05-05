@@ -9,6 +9,7 @@ integer = 2147000000
 		<title>
 			<%= page_title %>
 		</title>
+		<link src="css.css" rel="stylesheet" type="text/css" />
 	</head>
 	<body>
 		<div>
