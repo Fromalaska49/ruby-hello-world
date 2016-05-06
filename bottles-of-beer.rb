@@ -1,3 +1,3 @@
-<% for i in (99).downto(0) %>
+<% for i in (99).downto(1) %>
 	<%= i %> bottles of beer on the wall, <%= i %> bottles of beer, take one down, pass it around, <%= (i - 1) %> bottles of beer on the wall
 <% end %> 
